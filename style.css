@@ -1,0 +1,48 @@
+main {
+	margin: 0;
+	padding: 0;
+	background-color: #b35e04;
+	height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+	margin-top: 120px;
+	max-width: 600px;
+	height: 320px;
+	border: 1px solid #303030;
+	background-color: #303030;
+	left: 280px;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+	padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+	margin-top: -85px;
+  }
+  
+  .text-info {
+	color: #b35e04;
+  }
+
+  #cadastro .container #cadastro-row #cadastro-column #cadastro-box {
+	margin-top: 50px;
+	max-width: 600px;
+	height: 680px;
+	border: 1px solid #303030;
+	background-color: #303030;
+	left: 280px;
+  }
+  #cadastro .container #cadastro-row #cadastro-column #cadastro-box #cadastro-form {
+	padding: 20px;
+  }
+  #cadastro .container #cadastro-row #cadastro-column #cadastro-box #cadastro-form #register-link {
+	margin-top: -85px;
+  }
+  
+  .text-info {
+	color: #b35e04;
+  }
+
+  #submit-button{
+	left: 225px;
+	position: absolute;
+  }
